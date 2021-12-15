@@ -1,0 +1,15 @@
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\obj\Debug\net6.0\Projeto001.csproj.AssemblyReference.cache
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\obj\Debug\net6.0\Projeto001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\obj\Debug\net6.0\Projeto001.AssemblyInfoInputs.cache
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\obj\Debug\net6.0\Projeto001.AssemblyInfo.cs
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\obj\Debug\net6.0\Projeto001.csproj.CoreCompileInputs.cache
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\bin\Debug\net6.0\Projeto001.exe
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\bin\Debug\net6.0\Projeto001.deps.json
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\bin\Debug\net6.0\Projeto001.runtimeconfig.json
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\bin\Debug\net6.0\Projeto001.dll
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\bin\Debug\net6.0\ref\Projeto001.dll
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\bin\Debug\net6.0\Projeto001.pdb
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\obj\Debug\net6.0\Projeto001.dll
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\obj\Debug\net6.0\ref\Projeto001.dll
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\obj\Debug\net6.0\Projeto001.pdb
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto001\Projeto001\obj\Debug\net6.0\Projeto001.genruntimeconfig.cache
