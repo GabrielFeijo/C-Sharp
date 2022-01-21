@@ -15,7 +15,17 @@
       "ProjectGuid": "9cfa32a4-5dc2-4337-9714-4bfe0639fc34",
       "DisplayName": "Projeto001Tests",
       "ColorIndex": 1
+    },
+    "ab27470e-30d1-4419-94d3-c6dc408783d5": {
+      "ProjectGuid": "ab27470e-30d1-4419-94d3-c6dc408783d5",
+      "DisplayName": "par-impar",
+      "ColorIndex": 2
+    },
+    "8ff09316-b5a4-45a6-bb96-deba72077ba1": {
+      "ProjectGuid": "8ff09316-b5a4-45a6-bb96-deba72077ba1",
+      "DisplayName": "teste",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

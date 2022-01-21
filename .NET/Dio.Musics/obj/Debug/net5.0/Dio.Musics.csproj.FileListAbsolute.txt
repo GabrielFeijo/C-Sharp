@@ -1,0 +1,16 @@
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\obj\Debug\net5.0\Dio.Musics.csproj.AssemblyReference.cache
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\obj\Debug\net5.0\Dio.Musics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\obj\Debug\net5.0\Dio.Musics.AssemblyInfoInputs.cache
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\obj\Debug\net5.0\Dio.Musics.AssemblyInfo.cs
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\obj\Debug\net5.0\Dio.Musics.csproj.CoreCompileInputs.cache
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\bin\Debug\net5.0\Dio.Musics.exe
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\bin\Debug\net5.0\Dio.Musics.deps.json
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\bin\Debug\net5.0\Dio.Musics.runtimeconfig.json
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\bin\Debug\net5.0\Dio.Musics.runtimeconfig.dev.json
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\bin\Debug\net5.0\Dio.Musics.dll
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\bin\Debug\net5.0\ref\Dio.Musics.dll
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\bin\Debug\net5.0\Dio.Musics.pdb
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\obj\Debug\net5.0\Dio.Musics.dll
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\obj\Debug\net5.0\ref\Dio.Musics.dll
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\obj\Debug\net5.0\Dio.Musics.pdb
+C:\Users\feijo\Desktop\workspace\C#\.NET\Dio.Musics\obj\Debug\net5.0\Dio.Musics.genruntimeconfig.cache
