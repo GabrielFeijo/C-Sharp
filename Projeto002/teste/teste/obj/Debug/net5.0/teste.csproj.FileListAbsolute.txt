@@ -1,0 +1,16 @@
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\bin\Debug\net5.0\teste.exe
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\bin\Debug\net5.0\teste.deps.json
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\bin\Debug\net5.0\teste.runtimeconfig.json
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\bin\Debug\net5.0\teste.runtimeconfig.dev.json
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\bin\Debug\net5.0\teste.dll
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\bin\Debug\net5.0\ref\teste.dll
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\bin\Debug\net5.0\teste.pdb
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\obj\Debug\net5.0\teste.csproj.AssemblyReference.cache
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\obj\Debug\net5.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\obj\Debug\net5.0\teste.AssemblyInfoInputs.cache
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\obj\Debug\net5.0\teste.AssemblyInfo.cs
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\obj\Debug\net5.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\obj\Debug\net5.0\teste.dll
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\obj\Debug\net5.0\ref\teste.dll
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\obj\Debug\net5.0\teste.pdb
+C:\Users\feijo\Desktop\workspace\C#\Projetos\Projeto002\teste\teste\obj\Debug\net5.0\teste.genruntimeconfig.cache
